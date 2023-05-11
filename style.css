@@ -1,0 +1,21 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+p {
+	font-size:27px
+
+
+}
+h1 {
+	font-size:30px
+
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Cormorant Garamond', serif;
+  transition: all .7s ease;
+}
